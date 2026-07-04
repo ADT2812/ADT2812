@@ -40,33 +40,6 @@ Outside coding, you'll usually find me leading an NCC activity, playing hockey o
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-🛡️ **STIX CTI Analyzer**  
-Cyber Threat Intelligence pipeline for analyzing STIX feeds.
-
-🤖 **VERDIQT**  
-AI-assisted bias auditing platform for machine learning systems.
-
-🏥 **Sanjeevani**  
-Emergency healthcare resource coordination platform.
-
-♻️ **Samparka Sutra**  
-Smart waste management and routing platform.
-
----
-
-## 🌱 Currently Exploring
-
-- Backend Engineering
-- Data Structures & Algorithms
-- Cloud Computing
-- System Design
-- AI Applications
-
----
 
 ## 🤝 Let's Connect
 
